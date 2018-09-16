@@ -1,0 +1,37 @@
+/*
+///* TODO: crete style sheet
+
+ */
+body {
+
+  background:black;
+  background-image: url("https://i.imgur.com/8IKNVtE.jpg");
+    text-align: center;
+    color: white;
+    font-family: helvetica;
+
+}
+
+h1 {
+  font-size: 25px;
+  color: #e2a68a;
+}
+
+img src {
+padding-top: 30px;
+
+}
+p {
+font-size: 20px;
+}
+
+input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+
+    input[type="submit"] {
+        background: #e2a68a;
+        color: white;
+      }
